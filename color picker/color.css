@@ -1,0 +1,55 @@
+
+.body {
+    text-align: center;
+    margin-top: 200px;
+}
+
+button {
+    height: 85px;
+    width: 85px;
+    border-color: black;
+    border: solid;
+    border-width: 3px;
+    border-radius: 10px;
+    font-size: 16px;
+    font-family: Roboto;
+}
+
+.back {
+    margin-top: 15px;
+    background-color: black;
+    color: white;
+    height: 45px;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+#button1 {
+    background-color: #e0e0e0;
+    margin: 3px;
+}
+
+#button2 {
+    background-color: #6fcf97;
+    margin: 3px;
+}
+
+#button3 {
+    background-color: #56ccf2;
+    margin: 3px;
+}
+
+#button4 {
+    background-color: #bb6bd9;
+    margin: 3px;
+}
+
+.divs {
+    margin: 10px;
+}
+
+span {
+    color: blue;
+}
