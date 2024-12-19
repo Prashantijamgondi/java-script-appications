@@ -1,0 +1,24 @@
+
+.body {
+    background-color: #f16c6c;
+    height: 100vh;
+    color: white;
+    font-family: Roboto;
+    padding: 15px;
+}
+
+.forms {
+    background-color: white;
+    border: solid;
+    border-color: white;
+    border-width: 0px;
+    border-radius: 20px;
+    color: black;
+    font-family: Roboto;
+    padding: 26px;
+}
+
+.nams {
+    font-size: 30px;
+    font-family: Bree Serif;
+}

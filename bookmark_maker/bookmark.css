@@ -1,0 +1,45 @@
+
+.body {
+    background-color: #2d3a8c;
+    color: white;
+    font-family: Roboto;
+}
+
+.forms {
+    color: #323f4b;
+    background-color: white;
+    padding: 28px;
+    border: solid;
+    border-color: white;
+    border-width: 0px;
+    border-top-left-radius: 21px;
+    border-top-right-radius: 21px;
+}
+
+.box {
+    border: solid;
+    border-width: 2px;
+    border-color: #e4e7eb;
+    background-color: #f5f7fa;
+    padding: 15px;
+    color: #7b8794;
+    font-size: 13px;
+    border-radius: 18px;
+    font-weight: bold;
+}
+
+.color {
+    color: #dc3545;
+}
+
+.listClass {
+    border: solid;
+    list-style-type: none;
+    border-width: 2px;
+    border-radius: 10px;
+    border-color: #e4e7eb;
+    background-color: #f5f7fa;
+    color: #323f4b;
+    padding: 15px;
+    margin-top: 15px;
+}

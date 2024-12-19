@@ -1,0 +1,15 @@
+
+.body-half {
+    background-image: url('https://assets.ccbp.in/frontend/dynamic-webapps/library-management-bg.png');
+    height: 50%;
+    background-size: cover;
+}
+
+.head {
+    color: white;
+    font-size: 45px;
+    font-family: Roboto;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 20px;
+}

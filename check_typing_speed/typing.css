@@ -1,0 +1,50 @@
+
+.back {
+    background-image: linear-gradient(to left, #dac0ff, #f3eaff, #f2ebfe);
+    padding: 28px;
+}
+
+.heading {
+    color: #690cb0;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.times {
+    color: #323f4b;
+    font-size: 45px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.sentence {
+    color: #323f4b;
+    font-family: Roboto;
+    font-size: 21px;
+}
+
+.para {
+    color: #3e4c59;
+    font-family: Roboto;
+    margin-top: 8px;
+}
+
+.img {
+    height: 50px;
+    width: 50px;
+}
+
+.box {
+    border: solid;
+    border-width: 1px;
+    border-color: #9aa5b1;
+    border-radius: 10px;
+    background-color: #ffffff;
+    padding: 16px;
+}
+
+.input {
+    width: 100%;
+    height: 120px;
+}

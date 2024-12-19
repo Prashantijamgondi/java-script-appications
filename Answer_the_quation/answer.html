@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous" />
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div class="body">
+        <h1 class="text-center">Answer the Questions</h1>
+        <form id="questionsForm" class="forms">
+            <label for="selet" class="nams">What is the capital of India?</label><br>
+            <div class="ml-4">
+                <input name="city" type="radio" id="cityHyderabad" class="mt-3" />
+                <label for="cityHyderabad" class="pl-2">Hyderabad</label><br>
+                <input name="city" type="radio" id="cityChennai" class="mt-3" />
+                <label for="cityChennai" class="pl-2">Chennai</label><br>
+                <input name="city" type="radio" id="cityDelhi" class="mt-3" />
+                <label for="cityDelhi" class="pl-2">Delhi</label><br>
+                <input name="city" type="radio" id="cityMumbai" class="mt-3" />
+                <label for="cityMumbai" class="pl-2">Mumbai</label><br>
+                <button id="submitBtn" class="btn btn-primary mt-4" type="submit">Submit</button>
+                <p id="resultMsg" class="mt-3"></p>
+            </div>
+        </form>
+    </div>
+</body>
+
+</html>
